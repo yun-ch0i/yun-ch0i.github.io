@@ -12,4 +12,4 @@ authors: "<strong>Yun Choi</strong>"
 # website: https://leonidk.github.io/fmb-plus
 ---
 
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+Try this
