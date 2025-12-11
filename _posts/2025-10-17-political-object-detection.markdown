@@ -12,3 +12,4 @@ slides: /pdfs/political_object_detection_slides.pdf
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 ---
+This project develops a domain-specific political object detection framework that identifies symbols—such as MAGA hats, protest signs, and national flags—that generic vision models overlook. Using open vocabulary object detection, segmentation, and a semi-supervised cluster-then-label pipeline, it generates reliable political object categories and an “image-object matrix” for large-scale analysis of visual political communication.

@@ -12,3 +12,4 @@ slides: /pdfs/polvifidel_slides.pdf
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 ---
+POLVIFIDEL is a new reference-free metric for evaluating whether VLM-generated captions accurately capture politically meaningful actors, symbols, and relationships in images. By combining domain-specific face recognition and political object detection, it assesses political fidelity and improves caption quality through auxiliary visual prompts.
