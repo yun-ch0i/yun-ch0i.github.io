@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Estimating the Effect of Super PACs on minority representation in local elections"
+date:   2025-01-02 22:21:59 +00:00
+image: /images/superpac.png
+categories: Princeton
+author: "Leo Keselman"
+course: "POL583: Political Economy of Interest Groups"
+paper: "/pdfs/superpac.pdf"
+slides: "/pdfs/superpac_slides.pdf"
+# code: https://github.com/leonidk/modecfg
+# website: https://leonidk.github.io/modecfg
+# youtube: https://www.youtube.com/watch?v=r2426BR4r8o
+---
+We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry.
