@@ -6,8 +6,8 @@ image: /images/superpac.png
 categories: Princeton
 author: "Leo Keselman"
 course: "POL583: Political Economy of Interest Groups"
-paper: "/pdfs/superpac.pdf"
-slides: "/pdfs/superpac_slides.pdf"
+paper: /pdfs/superpac.pdf
+slides: /pdfs/superpac_slides.pdf
 # code: https://github.com/leonidk/modecfg
 # website: https://leonidk.github.io/modecfg
 # youtube: https://www.youtube.com/watch?v=r2426BR4r8o
