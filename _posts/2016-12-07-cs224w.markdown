@@ -11,7 +11,6 @@ course: "CS224W: Social and Information Network Analysis"
 ---
 Using graph models, we track the development of financial networks over the 20th century. 
 
-Correlation networks are a widely used analysis tool for equities. We investigate alternative strategies for generating edges between stocks. Further, we probe these networks to understand how well they explain correlations, without using historical data. Using a Kronecker Graph model, we model the development of these networks over the 20th century. To the best of our knowledge, this is the first work investigating how correlation networks evolve over long periods of time. To the best of our knowledge, this is the first work investigating how correlation networks evolve over long periods of time.
+Correlation networks are a widely used analysis tool for equities. We investigate alternative strategies for generating edges between stocks. Further, we probe these networks to understand how well they explain correlations, without using historical data. Using a Kronecker Graph model, we model the development of these networks over the 20th century. To the best of our knowledge, this is the first work investigating how correlation networks evolve over long periods of time. To the best of our knowledge, this is the first work investigating how correlation networks evolve over long periods of time. 
 
 [CS224W Paper](/pdfs/cs224w.pdf){:target="_blank"}
-
