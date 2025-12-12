@@ -2,7 +2,7 @@
 layout: post
 title:  "Estimating the Effect of Super PACs on Minority Representation in Local Elections"
 date:   2025-01-02 22:21:59 +00:00
-image: images/superpac.png 
+image: /images/superpac.png 
 categories: Princeton
 author: "Yun Choi"
 course: "POL583: Political Economy of Interest Groups"
